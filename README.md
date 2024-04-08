@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit Rajmane</h1>
 <h3 align="center">I'm adept at networking, DevOps, and cybersecurity, with deep knowledge in Linux and Windows administration. My AWS skills ensure robust cloud infrastructures, while ethical hacking and cyber forensics enhance security measures. Let's craft innovative solutions while safeguarding digital assets!</h3>
+
 <img align="right" alt="developer" width="400" src="https://i.gifer.com/7zon.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajmane&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajmane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajmane" alt="amitrajmane" /></a> </p>
