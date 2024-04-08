@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Rajmane</h1>
 <h3 align="center">I'm adept at networking, DevOps, and cybersecurity, with deep knowledge in Linux and Windows administration. My AWS skills ensure robust cloud infrastructures, while ethical hacking and cyber forensics enhance security measures. Let's craft innovative solutions while safeguarding digital assets!</h3>
 
-<img align="right" alt="developer" width="400" src="https://i.gifer.com/7zon.gif">
+<img align="right" alt="developer" width="400" src="https://www.google.com/imgres?q=hacker%20animated%20gif&imgurl=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2022%2F12%2Ficegif-502.gif&imgrefurl=https%3A%2F%2Fwww.icegif.com%2Fhacker-27%2F&docid=oPbJDjohECNC-M&tbnid=5XiCbpXaX-asKM&vet=12ahUKEwjth4Kj0LKFAxVw1zgGHYzoCLYQM3oECEsQAA..i&w=640&h=640&hcb=2&ved=2ahUKEwjth4Kj0LKFAxVw1zgGHYzoCLYQM3oECEsQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitrajmane&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajmane" /> </p>
 
