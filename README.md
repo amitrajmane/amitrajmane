@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajmane" alt="amitrajmane" /></a> </p>
 
-- 🔭 I’m currently working on [DevSecOps](https://github.com/amitrajmane/projectcdac)
+- 🔭 I’m currently working on [DevSecOps](https://github.com/amitrajmane)
 
-- 👨‍💻 All of my projects are available at [https://github.com/amitrajmane/projectcdac](https://github.com/amitrajmane/projectcdac)
+- 👨‍💻 All of my projects are available at [https://github.com/amitrajmane/projectcdac](https://github.com/amitrajmane)
 
 - 📫 How to reach me **amitrajmane999@gmail.com**
 
